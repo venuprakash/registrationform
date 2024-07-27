@@ -1,4 +1,4 @@
-<h1>Registration Form</h1>
+<h1>FREECODECAMP - Registration Form</h1>
 
 <h3>https://venuprakash.github.io/registrationform/</h3>
 
